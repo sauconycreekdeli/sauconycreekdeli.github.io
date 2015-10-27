@@ -1,3 +1,16 @@
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px){
+	.menu {
+	width :200px;
+	overflow: hidden;
+	padding: 2px;
+  margin: 2em auto 0;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.75);
+  position: relative;
+	}
+}
+
 .menu {
   background: #fff url(http://subtlepatterns.com/patterns/lightpaperfibers.png);
   width: 600px;
