@@ -43,6 +43,22 @@
 	overflow:auto;
 	padding:0px;
 	width: 100%;}
+	
+	.corner{
+	border-style:none;
+	border-color:none;
+	border-width:0px;
+	}
+	.corner.topleft {
+	border-style:none;
+	border-color:none;
+	border-width:0px;
+	}
+	.corner.topright {
+	border-style:none;
+	border-color:none;
+	border-width:0px;
+	}
 }
 .menu li span {
   position: relative;
@@ -62,6 +78,7 @@
 
 h1 {
   margin-top: 0;
+  
 }
 
 .corner {
