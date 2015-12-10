@@ -1,5 +1,14 @@
 @import "compass/css3";
 
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px){
+	.menu {
+	width :200px;
+	}
+}
+
 body {
   background: #333 url(http://subtlepatterns.com/patterns/escheresque_ste.png);
   font-family: Verdana, Arial, Helvetica, sans-serif;
