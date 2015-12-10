@@ -40,7 +40,9 @@
 		text-size:xx-small;
 	}
 	.menu{
-	overflow:auto;}
+	overflow:auto;
+	padding:0px;
+	width: 100%;}
 }
 .menu li span {
   position: relative;
