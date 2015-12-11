@@ -59,6 +59,16 @@
 	border-color:none;
 	border-width:0px;
 	}
+	.corner.bottomright {
+	border-style:none;
+	border-color:none;
+	border-width:0px;
+	}
+	.corner.bottomleft {
+	border-style:none;
+	border-color:none;
+	border-width:0px;
+	}
 }
 .menu li span {
   position: relative;
